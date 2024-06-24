@@ -1,0 +1,5 @@
+my_string = input("Введите текст ")
+print(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print("привет, я строка".replace(__old:" ", __new: " "))
